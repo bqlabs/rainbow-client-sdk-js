@@ -1,5 +1,6 @@
 'use strict';
 (function(rainbow, $q) {
+  console.log('starting rainbow-sdk');
 
   var DEFAULT_DEALER_PORT = 8080,
     DEFAULT_BROKER_PORT = 8081;
