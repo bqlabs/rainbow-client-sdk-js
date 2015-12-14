@@ -1,0 +1,23 @@
+{
+  "name": "rainbow-bower",
+  "authors": [
+    "Tom Calvo <calvo.tom@gmail.com>"
+  ],
+  "description": "",
+  "main": "rainbow.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "q": "v1.0.1"
+  }
+}
